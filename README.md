@@ -1,4 +1,7 @@
 # Stock Market Machine Learning Prediction Model
+
+Predicts trend of stock market using the S&P500 index as the indicator. Trains model using RandomForestClassifier and subsequent backtesting and prediction factor adjustments.
+
 # Project Overview
 
 In this project, we will predict the price of the S&P500 stock market index.
