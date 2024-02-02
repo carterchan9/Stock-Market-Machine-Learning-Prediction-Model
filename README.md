@@ -1,1 +1,1 @@
-# Stock-Market-Machine-Learning-Prediction-Model
+# Stock Market Machine Learning Prediction Model
