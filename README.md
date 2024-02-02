@@ -14,7 +14,7 @@ In this project, we will predict the price of the S&P500 stock market index.
 
 ## Installation
 
-The following must be installed locally and used to complete this project:
+The following was installed and used to complete this project:
 
 * JupyterLab
 * Python 3.8+
